@@ -1,7 +1,7 @@
-# Update
-I pushed a commented out script since the script is not currently working correctly.  When the script is active you will get the default landing page until I fix the issue.  Maybe today, maybe not ... SORRY!  If someone has time to investigate/fix it, please do and offer a pull request.  See my notes in the issue tracker [here](https://github.com/JesterEE/SteamMonsterMinigameJoinScript/issues/1).
+# Update - 6/17/2015
+I pushed a commented out script (V1.2) since the script is not currently working correctly.  When the script is active you will get the default landing page!  As explained in the [issue tracker](https://github.com/JesterEE/SteamMonsterMinigameJoinScript/issues/1) development of this script on my end is discontinued.  The latest update (V1.3dev)is in the [dev branch](https://github.com/JesterEE/SteamMonsterMinigameJoinScript/tree/dev) and I encourage those interested to fork that branch and continuing to get it working.
 
-Until it's fixed, I recommend using this command from the Console:
+I recommend using this command from the Console to get into the game of your choosing:
 
 <code>
 (function(key){setInterval(function(){JoinGame(key);$J('.newmodal').remove();}, 2000)})(ROOM_KEY_HERE)
