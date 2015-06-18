@@ -1,5 +1,5 @@
 # Update - 6/17/2015
-I pushed a commented out script (V1.2) since the script is not currently working correctly.  When the script is active you will get the default landing page!  As explained in the [issue tracker](https://github.com/JesterEE/SteamMonsterMinigameJoinScript/issues/1) development of this script on my end is discontinued.  The latest update (V1.3dev)is in the [dev branch](https://github.com/JesterEE/SteamMonsterMinigameJoinScript/tree/dev) and I encourage those interested to fork that branch and continuing to get it working.
+I pushed a commented out script (V1.2) since the script is not currently working correctly.  When the script is active you will get the default landing page!  As explained in the [issue tracker](https://github.com/JesterEE/SteamMonsterMinigameJoinScript/issues/1) development of this script on my end is discontinued.  The latest update (V1.3dev) is in the [dev branch](https://github.com/JesterEE/SteamMonsterMinigameJoinScript/tree/dev) and I encourage those interested to fork that branch and continuing to get it working.
 
 I recommend using this command from the Console to get into the game of your choosing:
 
@@ -13,8 +13,6 @@ Kudos to ZucchiniZeMinz_Live in the [ulletical](http://www.twitch.tv/ulletical) 
 Adds a dialog box to the Steam Monster Minigame to join a game of your choice.
 
 #Steam Summer 2015 Monster Minigame Join Script#
-
-[![forthebadge](http://forthebadge.com/images/badges/fuck-it-ship-it.svg)](http://forthebadge.com) [![Build Status](https://travis-ci.org/JesterEE/SteamMonsterMinigameJoinScript.svg?branch=master)](https://travis-ci.org/JesterEE/SteamMonsterMinigameJoinScript)
 
 ## Purpose ##
 
